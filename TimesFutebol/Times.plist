@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Flamengo</key>
+	<dict>
+		<key>gols</key>
+		<integer>30</integer>
+		<key>estado</key>
+		<string>RJ</string>
+	</dict>
+	<key>Corinthians</key>
+	<dict>
+		<key>gols</key>
+		<integer>26</integer>
+		<key>estado</key>
+		<string>SP</string>
+	</dict>
+	<key>Vasco</key>
+	<dict>
+		<key>gols</key>
+		<integer>29</integer>
+		<key>estado</key>
+		<string>RJ</string>
+	</dict>
+	<key>Palmeiras</key>
+	<dict>
+		<key>gols</key>
+		<integer>20</integer>
+		<key>estado</key>
+		<string>SP</string>
+	</dict>
+	<key>Fluminense</key>
+	<dict>
+		<key>gols</key>
+		<integer>25</integer>
+		<key>estado</key>
+		<string>RJ</string>
+	</dict>
+	<key>São Paulo</key>
+	<dict>
+		<key>gols</key>
+		<integer>19</integer>
+		<key>estado</key>
+		<string>SP</string>
+	</dict>
+	<key>Botafogo</key>
+	<dict>
+		<key>gols</key>
+		<integer>17</integer>
+		<key>estado</key>
+		<string>RJ</string>
+	</dict>
+	<key>Santos</key>
+	<dict>
+		<key>gols</key>
+		<integer>33</integer>
+		<key>estado</key>
+		<string>SP</string>
+	</dict>
+</dict>
+</plist>
