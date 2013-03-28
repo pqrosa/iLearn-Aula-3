@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		37A22D491704F9ED009530B9 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 37A22D481704F9ED009530B9 /* README.md */; };
 		37CF9FF11703790B00A5608D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37CF9FF01703790B00A5608D /* UIKit.framework */; };
 		37CF9FF31703790B00A5608D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37CF9FF21703790B00A5608D /* Foundation.framework */; };
 		37CF9FF51703790B00A5608D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37CF9FF41703790B00A5608D /* CoreGraphics.framework */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		37A22D481704F9ED009530B9 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		37CF9FED1703790B00A5608D /* TimesFutebol.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TimesFutebol.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		37CF9FF01703790B00A5608D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		37CF9FF21703790B00A5608D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -100,6 +102,7 @@
 		37CF9FF71703790B00A5608D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				37A22D481704F9ED009530B9 /* README.md */,
 				37CFA01517037C0700A5608D /* Times.plist */,
 				37CF9FF81703790B00A5608D /* TimesFutebol-Info.plist */,
 				37CF9FF91703790B00A5608D /* InfoPlist.strings */,
@@ -168,6 +171,7 @@
 				37CFA0051703790C00A5608D /* Default@2x.png in Resources */,
 				37CFA0071703790C00A5608D /* Default-568h@2x.png in Resources */,
 				37CFA01617037C0700A5608D /* Times.plist in Resources */,
+				37A22D491704F9ED009530B9 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -296,6 +300,7 @@
 				37CFA00C1703790C00A5608D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -45,11 +45,15 @@
 }
 
 - (NSArray *)timesOrdenadosPorGols{
-    NSArray * retorno;
     
-    // Estudar ordenação de Arrays
+    NSSortDescriptor *golsDescriptor = [[NSSortDescriptor alloc] initWithKey:@"gols" ascending:NO];
     
-    return retorno;
+    NSArray *sortDescriptors = @[golsDescriptor];
+    
+    NSArray *sortedArray = [self.times sortedArrayUsingDescriptors:sortDescriptors];
+    
+    return sortedArray;
+
 }
 
 @end
